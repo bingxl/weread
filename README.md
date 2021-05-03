@@ -3,7 +3,11 @@
 
 # 安装
 1. 从扩展商店安装: [edge扩展商店](https://microsoftedge.microsoft.com/addons/detail/weread/cdmomalodmfcplbngkaakopcnbnciami?hl=en-US), chrome暂未上线
-2. 从源码安装
+2. 本地安装:
+    * [下载文件](https://github.com/bingxl/weread/releases/) 下载最新版本的 `weread.rar` 文件
+    * 解压
+    * 打开浏览器 extensions 界面, `load unpacked`
+3. 从源码构建
     * [下载源码](https://github.com/bingxl/weread)
     * 安装依赖(只有一个 esbuild 依赖) 控制台切换到源码根目录执行命令`npm install`
     * 构建. 源码根目录执行命令 `npm run build`
