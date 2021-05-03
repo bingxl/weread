@@ -15,7 +15,7 @@
                 "https://weread.qq.com/web/shelf"
             ],
             "js": [
-                "content.js"
+                "build/index.js"
             ]
         }
     ]

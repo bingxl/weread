@@ -1,0 +1,27 @@
+{
+  "name": "weread",
+  "version": "1.0.0",
+  "description": "微信读书",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node bin/build.js",
+    "start": "node bin/dev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bingxl/weread.git"
+  },
+  "keywords": [
+    "weread"
+  ],
+  "author": "bingxl <bingxl@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bingxl/weread/issues"
+  },
+  "homepage": "https://github.com/bingxl/weread#readme",
+  "dependencies": {
+    "esbuild": "^0.11.17"
+  }
+}

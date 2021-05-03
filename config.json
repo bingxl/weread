@@ -1,0 +1,9 @@
+{
+    "books": "#routerView > div.shelf_list > a",
+    "archiveFiles": [
+        "icons",
+        "images",
+        "manifest.json",
+        "build/index.js"
+    ]
+}
